@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Geben sie eine Ganzzahl ein um zu Prüfen ob sie eine Primzahl ist");
+            Console.WriteLine("Geben Sie eine Ganzzahl ein um zu Prüfen ob sie eine Primzahl ist");
             int inpt;
             int.TryParse(Console.ReadLine(), out inpt);
 
